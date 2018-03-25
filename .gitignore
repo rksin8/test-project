@@ -2,5 +2,16 @@
 __pycache__
 test-project
 venv
-.py
+*.py
 .git
+
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
