@@ -3,7 +3,6 @@ __pycache__
 test-project
 venv
 *.py
-.git
 
 .installed.cfg
 bin
